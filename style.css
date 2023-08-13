@@ -183,5 +183,7 @@ html,body{
     .game-box{
         height: 90%;
     }
+    .result-box{
+        width:100%;
     
 }
