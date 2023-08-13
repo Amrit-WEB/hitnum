@@ -7,7 +7,7 @@ const bubbleGroup = document.querySelector('.game-box-bubbles')
 
 const resultContainer = document.querySelector('.result-container')
 
-const bubbleNumber = 20;
+const bubbleNumber = 96;
 
 
 //Generate Random Hit Number
