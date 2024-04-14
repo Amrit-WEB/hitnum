@@ -30,7 +30,7 @@ bubbleGroup.innerHTML = bubblesGroupMarkup
 //TIMER LOGIC-------------------------------------------------------------------------------------
 const timer = document.querySelector('.attri-timer')
 
-let countDown = 60;
+let countDown = 30;
 
 const timing = setInterval(() => {
     if (countDown <= 60 && countDown >= 0) {
